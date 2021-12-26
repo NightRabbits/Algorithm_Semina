@@ -1,3 +1,4 @@
 # BSI Sort
 1st Writter : NightRabbit  
-test
+
+## 1. Bubble Sort 의 정의
